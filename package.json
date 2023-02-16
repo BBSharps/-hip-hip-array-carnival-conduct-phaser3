@@ -4,7 +4,9 @@
   "description": "A Project combining Phaser 3 and React to create a browser game and it's main menues.",
   "main": "button.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config webpack/prod.js ",
+    "start": "webpack-dev-server --config webpack/base.js --open",
+    "test": "jest --watch"
   },
   "author": "",
   "license": "ISC",
