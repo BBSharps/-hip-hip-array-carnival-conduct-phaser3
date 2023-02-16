@@ -3,7 +3,7 @@
 A Project combining Phaser 3 and React to create a browser game and it's main menues.
 
 ### Phaser
-The Phaser portion the this project is at BBSharps/-hip-hip-array-carnival-conduct-phaser3
+The Phaser portion the this project is at https://github.com/BBSharps/-hip-hip-array-carnival-conduct-phaser3
 
 
 It is hosted at https://carnival-conduct-game.netlify.app
