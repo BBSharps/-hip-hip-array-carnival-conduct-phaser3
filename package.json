@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "start": "webpack-dev-server --config webpack/base.js --open",
-    "test": "jest --watch"
+    "test": "jest --watch",
+    "nodeVersion": "nvm use v16.14.0"
   },
   "author": "",
   "license": "ISC",
